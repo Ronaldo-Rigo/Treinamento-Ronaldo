@@ -1,7 +1,7 @@
 <?php 
 
-echo "teste"; 
-zzxcvsdf sdbfbsd
-echo "teste dfhjkfhsdhfjksd"; 
+echo "sdfjhsdgkfjgsdhgfhjsgkhjfsgdjhsg";
+
+echo '<h1> OLA OLA </h1>';
 
 ?>
