@@ -6,4 +6,6 @@ echo '<h1> OLA OLA </h1>';
 
 echo "qualquer coisa!";
 
+echo "qualquer coisa!";echo "qualquer coisa!";echo "qualquer coisa!";
+
 ?>
