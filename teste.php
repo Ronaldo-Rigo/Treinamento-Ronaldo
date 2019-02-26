@@ -1,7 +1,3 @@
 <?php 
-
-echo "teste"; 
-zzxcvsdf sdbfbsd
-echo "teste dfhjkfhsdhfjksd"; 
-
+echo "qualquer coisa!"
 ?>
