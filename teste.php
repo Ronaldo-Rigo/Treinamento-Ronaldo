@@ -1,1 +1,1 @@
-<?php echo "teste executado..."; ?>
+<?php echo "Ajustando conflitos"; ?>
